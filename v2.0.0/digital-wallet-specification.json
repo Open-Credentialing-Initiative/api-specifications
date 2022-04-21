@@ -168,6 +168,7 @@
         "value": {
           "success": true,
           "verifiablePresentation": "eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6ImRpZDpleGFtcGxlOmFiZmUxM2Y3MTIxMjA0[...]",
+          "verifierDID": "did:ethr:example", 
           "message": "Verification succeeded"
         }
       },
